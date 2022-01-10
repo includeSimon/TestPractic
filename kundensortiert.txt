@@ -1,0 +1,4 @@
+47Signvision GmBh,Small,15,65000,St. Gallen
+45Art Of Fire GmBh,Medium,53,38000,Thurgau
+48lasermed GmBh,Medium,67,5000,Zürich
+46Mediconsult AG,Large,358,50000,Zürich
